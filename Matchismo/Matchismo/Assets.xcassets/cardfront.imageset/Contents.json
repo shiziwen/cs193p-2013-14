@@ -2,11 +2,12 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "cardfront.png",
+      "filename" : "blank card rounded corner.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "blank card hi-res.png",
       "scale" : "2x"
     },
     {
